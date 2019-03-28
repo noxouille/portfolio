@@ -9,3 +9,7 @@ This repo contains my data science portfolio.
 [Exploring Hacker News Posts](project_02/Basics.ipynb)
 * Analyzed show posts and ask posts to determine which type of post receive more comments on average
 * Determined if posts created at a certain time are more likely to attract comments
+
+[Exploring eBay Car Sales Data](project_03/Basics.ipynb)
+* Cleaned the data set, removed outliers and unreliable data, and analyzed the top-6 most popular used of brand cars
+* Relied on a dataset of used cars from eBay Keinanzeigen, a classifieds section of the German eBay website
