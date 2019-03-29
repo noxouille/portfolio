@@ -13,3 +13,6 @@ This repo contains my data science portfolio.
 [Exploring eBay Car Sales Data](https://nbviewer.jupyter.org/github/noxouille/portfolio/blob/master/project_03/Basics.ipynb)
 * Cleaned the data set, removed outliers and unreliable data, and analyzed the top-6 most popular used of brand cars
 * Relied on a dataset of used cars from eBay Keinanzeigen, a classifieds section of the German eBay website
+
+[Visualizing Earnings Based On College Majors](https://nbviewer.jupyter.org/github/noxouille/portfolio/blob/master/project_04/Basics.ipynb)
+* Focused on data visualization to find insights between columns, using scatter plots, histogram and bar plots
