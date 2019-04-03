@@ -16,3 +16,6 @@ This repo contains my data science portfolio.
 
 [Visualizing Earnings Based On College Majors](https://nbviewer.jupyter.org/github/noxouille/portfolio/blob/master/project_04/Basics.ipynb)
 * Focused on data visualization to find insights between columns, using scatter plots, histogram and bar plots
+
+[Analyzing CIA Factbook Data Using SQLite and Python](https://nbviewer.jupyter.org/github/noxouille/portfolio/blob/master/project_05/Basics.ipynb)
+* Discovered countries with the highest population density and largest water-to-land area ratio
