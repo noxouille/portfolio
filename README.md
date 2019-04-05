@@ -19,3 +19,7 @@ This repo contains my data science portfolio.
 
 [Analyzing CIA Factbook Data Using SQLite and Python](https://nbviewer.jupyter.org/github/noxouille/portfolio/blob/master/project_05/Basics.ipynb)
 * Discovered countries with the highest population density and largest water-to-land area ratio
+
+[Answering Business Questions using SQL](https://nbviewer.jupyter.org/github/noxouille/portfolio/blob/master/project_06/Basics.ipynb)
+
+* Explored chinook database with deep emphasis on SQL workflow and storytelling by data visualization
