@@ -21,5 +21,8 @@ This repo contains my data science portfolio.
 * Discovered countries with the highest population density and largest water-to-land area ratio
 
 [Answering Business Questions using SQL](https://nbviewer.jupyter.org/github/noxouille/portfolio/blob/master/project_06/Basics.ipynb)
-
 * Explored chinook database with deep emphasis on SQL workflow and storytelling by data visualization
+
+[Designing and Creating a Database](https://nbviewer.jupyter.org/github/noxouille/portfolio/blob/master/project_07/Basics.ipynb)
+* Performed EDA on Major League Baseball data from Retrosheet
+* Designed and created the normalized DB schema as well as data migration
