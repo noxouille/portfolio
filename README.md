@@ -26,3 +26,6 @@ This repo contains my data science portfolio.
 [Designing and Creating a Database](https://nbviewer.jupyter.org/github/noxouille/portfolio/blob/master/project_07/Basics.ipynb)
 * Performed EDA on Major League Baseball data from Retrosheet
 * Designed and created the normalized DB schema as well as data migration
+
+[Is Fandango Still Inflating Ratings?](https://nbviewer.jupyter.org/github/noxouille/portfolio/blob/master/project_08/Basics.ipynb)
+* Investigated Fandango movie ratings after strong evidence suggested that the rating system was biased
