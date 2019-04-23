@@ -29,3 +29,6 @@ This repo contains my data science portfolio.
 
 [Is Fandango Still Inflating Ratings?](https://nbviewer.jupyter.org/github/noxouille/portfolio/blob/master/project_08/Basics.ipynb)
 * Investigated Fandango movie ratings after strong evidence suggested that the rating system was biased
+
+[Finding the Best Markets to Advertise In](https://nbviewer.jupyter.org/github/noxouille/portfolio/blob/master/project_09/Basics.ipynb)
+* Analyzed survey data from new coders to find the best two markets to advertise in
