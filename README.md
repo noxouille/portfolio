@@ -1,5 +1,7 @@
 # Ferdi's Portfolio
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/noxouille/portfolio/master)
+
 This repo contains my data science portfolio.
 
 [Profitable App Profiles for the App Store and Google Play Markets](https://nbviewer.jupyter.org/github/noxouille/portfolio/blob/master/project_01/Basics.ipynb)
