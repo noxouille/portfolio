@@ -32,3 +32,24 @@ This repo contains my data science portfolio.
 
 [Finding the Best Markets to Advertise In](https://nbviewer.jupyter.org/github/noxouille/portfolio/blob/master/project_09/Basics.ipynb)
 * Analyzed survey data from new coders to find the best two markets to advertise in
+
+[Visualizing The Gender Gap In College Degrees](https://nbviewer.jupyter.org/github/noxouille/portfolio/blob/master/project_10/Basics.ipynb)
+* Focused on data visualization with line charts to compare across all STEM degree categories
+
+[Clean And Analyze Employee Exit Surveys](https://nbviewer.jupyter.org/github/noxouille/portfolio/blob/master/project_11/Basics.ipynb)
+* Performed data cleaning tasks and analyzed the percentage of dissatisfied employees
+
+[Analyzing NYC High School Data](https://nbviewer.jupyter.org/github/noxouille/portfolio/blob/master/project_12/Basics.ipynb)
+* Performed analysis of SAT score and its correlation with respect to other variables such as gender and race
+
+[Star Wars Survey](https://nbviewer.jupyter.org/github/noxouille/portfolio/blob/master/project_13/Basics.ipynb)
+* Cleaned up the survey data, analyzed the ranking and total respondents of the first six movies in general and distinguished by gender, and visualized them
+
+[Winning Jeopardy](https://nbviewer.jupyter.org/github/noxouille/portfolio/blob/master/project_14/Basics.ipynb)
+* Analyzed Jeopardy questions to figure out some patterns that could help us win
+
+[Predicting Car Prices](https://nbviewer.jupyter.org/github/noxouille/portfolio/blob/master/project_15/Basics.ipynb)
+* Cleaned the data and determined the most optimal k-value for different model using k-fold cross validation
+
+[Predicting House Sale Prices](https://nbviewer.jupyter.org/github/noxouille/portfolio/blob/master/project_16/Basics.ipynb)
+* Focused on feature engineering, feature extraction, and training a linear regression model using k-Fold cross validation
