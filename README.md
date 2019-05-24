@@ -55,3 +55,6 @@ This repo contains my data science portfolio.
 
 [Predicting House Sale Prices](https://nbviewer.jupyter.org/github/noxouille/portfolio/blob/master/project_16/Basics.ipynb)
 * Focused on feature engineering, feature extraction, and training a linear regression model using k-Fold cross validation
+
+[Creating a Kaggle Workflow](https://nbviewer.jupyter.org/github/noxouille/portfolio/blob/master/project_17/Basics.ipynb)
+* Created a reproducible workflow to help iterate over ideas and continue to improve the accuracy of our predictions
